@@ -1,0 +1,3 @@
+/Users/isakgreatrex/Desktop/TNG033-labs/lab2 2/code/CMakeFiles/Exercise1.dir
+/Users/isakgreatrex/Desktop/TNG033-labs/lab2 2/code/CMakeFiles/ALL_BUILD.dir
+/Users/isakgreatrex/Desktop/TNG033-labs/lab2 2/code/CMakeFiles/ZERO_CHECK.dir
